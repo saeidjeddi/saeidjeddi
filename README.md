@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saeid Jeddi</h1>
 
 <h2 align="center">
-Backend Developer | Django & Flutter Developer | Python Engineer
+Python Backend Developer (Django) | Mobile Developer (Flutter)
 </h2>
 
 <h4 align="center">
-Building scalable backend systems, REST APIs, and cross-platform applications.
+Building scalable web services, REST APIs, and mobile applications with clean architecture, modern technologies, and performance-focused solutions.
 </h4>
+
 
 ---
 
