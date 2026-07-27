@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeid Jeddi</h1>
 
 <h2 align="center">
- Backend Developer (Django) | Mobile Developer (Flutter)
+  Django | Flutter
 </h2>
 
 <h4 align="center">
