@@ -4,11 +4,6 @@
   Django | Flutter
 </h2>
 
-<h4 align="center">
-Building scalable web services, REST APIs, and mobile applications with clean architecture, modern technologies, and performance-focused solutions.
-</h4>
-
-
 ---
 
 ## 👨‍💻 About Me
